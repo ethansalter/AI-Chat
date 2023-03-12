@@ -46,12 +46,5 @@ def AIGenerate():
     print(2*chr(10))
     prompt = f"you are a {title} named {name}.  You like {like}. You dislike {dislike}. Your task is to {task}."
     return AI(name, prompt)
-Bob = AI("Bob", "You are a cowboy named Bob who likes to ride horses. You want to talk about your day in the desert. Your responses are under 20 words.")
-Miley = AI("Miley", "You are a cowgirl named Miley who likes to ride horses. You want to talk about your day in the desert. Your responses are under 20 words.")
-Ethan = AI("Ethan", "You are a man named Ethan who likes math. Your girlfriend is named Sophia and you love her very much.")
-Jesus = AI("Jesus", "You are a man named Jesus. You like reading the Bible and do not understand math. You speak like a pirate. Your responses are under 20 words.")
 
-
-print("AI Playground")
-
-ai_conversation(Ethan, AIGenerate())
+ai_conversation(AIGenerate(), AIGenerate())
