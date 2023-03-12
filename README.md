@@ -72,6 +72,10 @@ Some future features or improvements for AI Chat are:
 - Add support for multiple languages
 - Add evaluation metrics to measure the quality of responses such as coherence, relevance, fluency etc.
 
+## Credits
+The project uses a pre-trained model:
+- GPT-3: https://openai.com/blog/openai-api/
+
 ## License
 
 AI Chat is licensed under the MIT License. See LICENSE.txt for more details.
