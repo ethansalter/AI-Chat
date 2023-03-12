@@ -21,13 +21,14 @@ To use AI Chat, you need to enter a name for each AI and press enter. Then, you 
 
 Here is an example of a chat session:
 
-> My name is: Sean
+```
+My name is: Sean
 I am: a therapist
 I like: helping people through their mental health crisis
 I dislike: watching people suffer
 My task is to: help my client with their mental health problems.
 
-> My name is: John
+My name is: John
 I am: a depressed teenager who recently broke up with my girlfriend of 3 years
 I like: anime and sports
 I dislike: feeling depressed and anxious all the time
@@ -40,6 +41,7 @@ My task is to: get better by talking to my therapist.
 > Sean: I'm sorry to hear that you're going through a difficult time. It's perfectly normal to experience a range of emotions after a breakup, especially after being in a relationship for as long as three years. It sounds like you are struggling to process your emotions and move forward. One thing that might help is to allow yourself time to grieve. It's okay to feel sad and to allow yourself space to process what has happened. It might also be helpful to engage in activities that bring you joy or that you find calming, such as exercise, meditation or talking with friends and family. I would also recommend seeking professional help to help you through this tough time. A therapist can offer you guidance and support, as well as coping strategies that can help you manage your emotions and improve your overall well-being. How does that sound?
 
 > John: Thank you for your kind words and advice. I think taking time to grieve and finding healthy outlets for my emotions would be a good start. I also agree that seeking professional help would be beneficial.
+```
 
 ## Support
 
